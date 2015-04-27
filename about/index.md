@@ -1,25 +1,59 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+title: About PGRS
+tags: [about, PGRS, postgrads, PGR, PhD]
+modified: 2015-04-27
+comments: false
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: glasgow-banner-2.jpg
+  credit:
+  creditlink:
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+## PGRS Founders' Welcome
 
-## Minimal Mistakes is all about:
+Welcome to PGRS (Postgraduate Researcher Society). We’re Matt and April and we set up PGRS in July 2012 with the vision of empowering all PGR students, creating a university wide PGR community and making sure the PGR voice is heard and taken notice of.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+There are loads of reasons to get involved with PGRS whilst you are studying at Strathclyde. Not only is it the easiest way for you to meet other PGR students, make new friends and gain new skills but we are also here to ensure your research is as stress free as possible by making sure all the support you need is put in place at either the Union or the University.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+It is still early days for our society but even in our first year of existence we have made a massive impact to PGR – union relations with successes including:
+
+- New union policy for an annual PG Festival
+- New union policy for a PGR welcome event in October
+- A 141% increase of PGR students voting in union elections from 2012 to 2013
+- A postgraduate officer on the Sports Union Exec
+- Regular social events for all PGR students
+
+It can only get better and with your involvement, ideas and input PGRS will continue to grow and become more than we ever imagined it could be!
+
+There is so much more to a PhD than the walls around you. The word “university” is derived from the Latin universitas magistrorum et scholarium, which roughly means “community of teachers and scholars.” Be part of that community.
+
+## Commitee
+
+- Lisa Millar - President
+- Tom Peat - Vice President
+- Secretary - Becky Laidlaw
+- Zab Klenschi - Social Rep
+- Kerrie Noble - PR
+- Soumitra Sakhalkar - International Rep
+
+## Past Commitee Members
+
+- Matthew Banger – President
+- Felicity Carlysle – President
+- April Dunham – Vice President
+- Iain Morrison – Vice President
+- David Thompson – Treasurer
+- Kerry Ferreira – Events Officer
+- Elisabeth Fraczek – Events Officer
+- Megan Heather – PR Officer
+- Naomi Aoife Bowers – Secretary
+- Ashleigh Logan – RKEC Representative
+- Steven Davies – IT
+- Tom Peat – President
+- Dominik Gotz – Vice President
+- Erfan Rahimian – Treasurer
+- Elisabeth Fraczek – PR Officer
+- Chimdia Edo – Secretary
+- Lisa Millar – Social
+- Becky Laidlaw – Development

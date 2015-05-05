@@ -50,3 +50,19 @@
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ site.url }}/images/apple-touch-icon-114x114-precomposed.png">
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.url }}/images/apple-touch-icon-144x144-precomposed.png">
+
+<!-- Velociraptors!!! -->
+<!-- jQuery: Grab Google CDN jQuery. fall back to local if necessary -->
+<script src="/assets/js/vendor/jquery-1.9.1.min.js"></script>
+
+<!-- The raptorize file  -->
+<script src="/assets/js/plugins/jquery.raptorize.1.0.js"></script>
+
+<!-- Konami Code trigger -->
+<script type="text/javascript">
+	$(window).load(function() {
+		$('.button').raptorize({
+			'enterOn' : 'konami-code'
+		});
+	});
+</script>

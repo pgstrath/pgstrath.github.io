@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            University of Strathclyde Postgrad Society
+title:            University of Strathclyde Postgraduate Society
 locale:           en_GB
 url:
 
@@ -26,10 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: University of Strathclyde Postgrad Society
+  name: University of Strathclyde Postgraduate Society
   avatar: logo.png
   bio:
-  email: pgrs.strath@gmail.com
+  email: pg.strath@gmail.com
   disqus-shortname:
   twitter: PGRSstrath
   facebook: pgrs.strathclyde

@@ -5,9 +5,9 @@ tags: [about, PGRS, postgrads, masters]
 modified: 2015-05-05
 comments: false
 image:
-  feature: glasgow-banner-2.jpg
-  credit:
-  creditlink:
+  feature: sample-image-10.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 ## MSc/MRes

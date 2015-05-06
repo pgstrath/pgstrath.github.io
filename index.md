@@ -4,7 +4,7 @@ title: Welcome!
 excerpt:
 tags:
 image:
-  feature: glasgow-banner-1.jpg
+  feature: glasgow-banner-3.jpg
   credit:
   creditlink:
 ---

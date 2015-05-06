@@ -6,8 +6,8 @@ modified: 2015-05-01
 comments: false
 image:
   feature: glasgow-banner-4.jpg
-  credit:
-  creditlink:
+  credit: Maciej Żytniewski
+  creditlink: http://commons.wikimedia.org/wiki/File%3ASkyline_of_Glasgow.jpg
 ---
 
 {% include _toc.html %}

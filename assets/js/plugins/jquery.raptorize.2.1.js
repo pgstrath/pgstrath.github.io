@@ -24,6 +24,7 @@
         //'/images/raptors/raptor2.png',
         //'/images/raptors/raptor3.png',
         //'/images/raptors/raptor4.png',
+        //'/images/raptors/raptor5.png',
     ];
     var raptorCounter = 0;
 
@@ -77,12 +78,16 @@
                     $(this).animate({
                         "bottom": "-20px"
                     }, 100, function () {
-                        var offset = (($(this).position().left) + 0);
+                        var offset = (($(this).position().left) + 1000);
                         $(this).delay(300).animate({
                             "right": offset
-                        }, 2200, function () {
-                            raptor.remove();
-                            locked = false;
+                        }, 300, function () {
+                          raptor = $('#elRaptor').css({
+                            "bottom": "-700px",
+                            "right" : "0"
+                          })
+                          raptor.remove();
+                          locked = false;
                         })
                     });
                 });

@@ -45,7 +45,7 @@
 
             $("#elRaptor").remove();
             //Raptor Vars
-            var raptorImageMarkup = '<img style="display: none;z-index:30000" src="' + randomImageUrl + '" />';
+            var raptorImageMarkup = '<img style="display: none;z-index:30000" src="' + window.location.protocol + randomImageUrl + '" />';
             var locked = false;
 
             //Append Raptor and Style

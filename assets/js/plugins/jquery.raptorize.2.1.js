@@ -29,7 +29,12 @@
     var raptorCounter = 0;
 
     $.fn.raptorize = function (options) {
-        var randomImageUrl = '/' + window.location.pathname.split('/')[1] + raptorUrls[Math.floor(Math.random() * raptorUrls.length)];
+        var urlSuffix = window.location.pathname.split('/')[1];
+        if (urlSuffix) {
+            var randomImageUrl = '/' + urlSuffix + raptorUrls[Math.floor(Math.random() * raptorUrls.length)];
+        } else {
+            var randomImageUrl = raptorUrls[Math.floor(Math.random() * raptorUrls.length)];
+        }
         //Yo' defaults
         var defaults = {
             enterOn: 'timer', //timer, konami-code, click

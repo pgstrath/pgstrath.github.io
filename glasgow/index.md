@@ -17,7 +17,7 @@ image:
 Many of you will be coming to Glasgow for the first time and might not know very much about the city. If you’re looking for things to do and places to go, we’ll try to show you some at our events, but you can also check out [The List](http://www.list.co.uk/), [TripAdvisor](http://www.tripadvisor.co.uk/Tourism-g186534-Glasgow_Scotland-Vacations.html) or [Yelp](http://www.yelp.co.uk/glasgow) for some ideas. If you’re looking for a place to stay, we’ve got some resources to help you below.
 
 <figure>
-  <img src="/images/duke.jpg">
+  <img src="{{ site.url }}/images/duke.jpg">
   <figcaption>A Glasgow tradition</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ Many of you will be coming to Glasgow for the first time and might not know very
 This guide provides a short description of the central areas of Glasgow as well as a price range for renting there. Each price is ‘per calendar month’ (pcm) for a 2 bedroom flat. Full-time students should be exempt from paying council tax and part-time students may be eligible for a discount. Certificates of student status can be obtained through [Student Business](http://www.strath.ac.uk/studentlifecycle/letterscounciltaxbankstatus/).
 
 <figure>
-  <img src="/images/glasgow_map.png">
+  <img src="{{ site.url }}/images/glasgow_map.png">
   <figcaption>Glasgow City Areas</figcaption>
 </figure>
 

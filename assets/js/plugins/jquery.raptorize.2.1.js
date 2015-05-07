@@ -29,7 +29,7 @@
     var raptorCounter = 0;
 
     $.fn.raptorize = function (options) {
-        var randomImageUrl = raptorUrls[Math.floor(Math.random() * raptorUrls.length)];
+        var randomImageUrl = '/' + window.location.pathname.split('/')[1] + raptorUrls[Math.floor(Math.random() * raptorUrls.length)];
         //Yo' defaults
         var defaults = {
             enterOn: 'timer', //timer, konami-code, click
@@ -45,7 +45,7 @@
 
             $("#elRaptor").remove();
             //Raptor Vars
-            var raptorImageMarkup = '<img style="display: none;z-index:30000" src="' + window.location.protocol + randomImageUrl + '" />';
+            var raptorImageMarkup = '<img style="display: none;z-index:30000" src="' + randomImageUrl + '" />';
             var locked = false;
 
             //Append Raptor and Style

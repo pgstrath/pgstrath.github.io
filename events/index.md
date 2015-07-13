@@ -17,7 +17,7 @@ image:
 
 ### Monthly Events
 
-- [Payday Social, 29th of every month across the city](http://www.facebook.com/postgraduate.strathclyde)
+- [Payday Social, 28th of every month across the city](http://www.facebook.com/postgraduate.strathclyde)
 
 - [Bright Club](http://www.facebook.com/brightclubglasgow)
 

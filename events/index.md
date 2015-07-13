@@ -4,7 +4,7 @@ title: Events
 navtitle: Events
 excerpt: "Events"
 image:
-  feature: sample-image-9.jpg
+  feature: blank_banner2.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---

@@ -22,6 +22,14 @@
   })();
 </script>
 {% endif %}
+
+<script>
+var host = "{{ site.url }}"
+if (window.location.host == host && window.location.protocol != "https:") {
+  window.location.protocol = "https:"
+}
+</script>
+
 {% if page.comments %}
   {% include _disqus_comments.html %}
 {% endif %}

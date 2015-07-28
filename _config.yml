@@ -3,6 +3,7 @@
 title:            University of Strathclyde Postgraduate Society
 locale:           en_GB
 url:
+ssl_redirect_url: //www.pgstrath.co.uk
 
 
 # Jekyll configuration

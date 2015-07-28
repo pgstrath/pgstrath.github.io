@@ -24,7 +24,7 @@
 {% endif %}
 
 <script>
-var host = "{{ site.url }}"
+var host = "{{ site.ssl_redirect_url }}"
 if (window.location.host == host && window.location.protocol != "https:") {
   window.location.protocol = "https:"
 }

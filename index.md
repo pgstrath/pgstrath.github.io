@@ -10,7 +10,7 @@ image:
   creditlink:
 ---
 
-Welcome to Postgraduate Society (PGS)! The PGS is a society for all Postgraduate Students at Strathclyde. We host weekly social events, to create a strong (and fun!) postgraduate community. In addition, the PGS acts as a voice for postgraduate taught and research (PGT and PGR) students across Strathclyde and the NUS. If you would like to get involved or have any queries please feel free to get in touch.
+Welcome to the Postgraduate Society (PGS)! The PGS is a society for all Postgraduate Students at Strathclyde. We host weekly social events, to create a strong (and fun!) postgraduate community. In addition, the PGS acts as a voice for postgraduate taught and research (PGT and PGR) students across Strathclyde and the NUS. If you would like to get involved or have any queries please feel free to get in touch.
 
 You can find us in the Postgraduate Lounge of the Union every Friday between 12.30-1.30pm.  Just stop by for a chat!
 

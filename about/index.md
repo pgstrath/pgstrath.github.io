@@ -19,6 +19,16 @@ There is so much more to a MSc/ MRes/PhD than the walls around you.
 The word “university” is derived from the Latin universitas magistrorum et scholarium, which roughly means “community of teachers and scholars.” Be part of that community.
 
 ## Committee
+- Dani Anderson - President
+- Brian Saltin - VP
+- Jonas Kusch - Secretary
+- Catriona McFarlan - Treasurer
+- Cara Pleym - Social Rep
+- Kenny Barlee - IT + Social Media
+- Alexandra Costa - International Rep
+- Shivani Tandon - Ordinary Member
+
+### 2015-2016
 
 - Lisa Millar - President
 - Tom Peat - Vice President

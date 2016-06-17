@@ -41,4 +41,4 @@ Reviews should all be handled through the appropriate student administration sys
 
 ## Teaching
 
-Some departments make teaching compulsory as part of your funding e.g. taking on a set amount of hours to fulfil your funding requirements but this is not always the case, as it is voluntary in other departments. If you do teach, it can be a good way to earn some extra money and if you want to stay in academic after your PhD it can be a great thing to put on your CV. Speak to your supervisor about opportunities for teaching, demonstrating or invigilating within your department to gain some extra skills.
+Some departments make teaching compulsory as part of your funding e.g. taking on a set amount of hours to fulfil your funding requirements but this is not always the case, as it is voluntary in other departments. If you do teach, it can be a good way to earn some extra money and if you want to stay in academia after your PhD it can be a great thing to put on your CV. Speak to your supervisor about opportunities for teaching, demonstrating or invigilating within your department to gain some extra skills.

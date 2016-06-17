@@ -20,7 +20,7 @@ The word “university” is derived from the Latin universitas magistrorum et s
 
 ## Committee
 - Dani Anderson - President
-- Brian Saltin - VP
+- Brian Saltin - Vice President
 - Jonas Kusch - Secretary
 - Catriona McFarlan - Treasurer
 - Cara Pleym - Social Rep

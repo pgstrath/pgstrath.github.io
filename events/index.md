@@ -13,7 +13,7 @@ The society puts on a series of events throughout the year (not just during term
 
 ### Weekly Events
 
-- Postgrads do Lunch, Friday 1230-1330 at our PG Lounge in the Uni's Union. Come, bring your food and join us for our end-of-the-week lunch. All members, old and new, are welcome to join. You bring the lunch and we supply the cake!
+- Postgrads do Lunch, Friday 1230-1330 at our PG Lounge in the Student's Union. Come, bring your food and join us for our end-of-the-week lunch. All members, old and new, are welcome to join. You bring the lunch and we supply the cake!
 
 - [Badminton, Friday 1700-1800](http://www.facebook.com/groups/pgstrathbadminton) at the Uni's CSR (Centre for Sport and Recreation). We book one court a week, which is suited for up to 6 people. There is a sign up sheet sent out via our weekly email.
 

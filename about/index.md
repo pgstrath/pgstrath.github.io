@@ -24,7 +24,6 @@ The word “university” is derived from the Latin universitas magistrorum et s
 - Jonas Kusch - Secretary
 - Catriona McFarlan - Treasurer
 - Cara Pleym - Social Rep
-- Kenny Barlee - IT + Social Media
 - Alexandra Costa - International Rep
 - Shivani Tandon - Ordinary Member
 

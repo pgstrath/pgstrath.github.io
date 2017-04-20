@@ -28,10 +28,10 @@ kramdown:
 owner:
   name: University of Strathclyde Postgraduate Society
   avatar: logo.png
-  bio:
+  bio: PGS is a society for all Postgrad Students at Strathclyde. Run by students, for the students.
   email: pg.strath@gmail.com
   disqus-shortname:
-  twitter: PGStrath
+  twitter: pgstrath
   facebook: pgstrath
   google:
     plus: #username

@@ -1,5 +1,7 @@
 ---
 layout: page
+redirect_to:
+  - https://pgstrath.wordpress.com/
 title: Events
 navtitle: Events
 excerpt: "Events"

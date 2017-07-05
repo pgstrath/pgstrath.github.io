@@ -1,5 +1,7 @@
 ---
 layout: page
+redirect_to:
+  - https://pgstrath.wordpress.com/
 title: Masters Courses at Strathclyde
 navtitle: Masters
 tags: [about, PGRS, postgrads, masters]

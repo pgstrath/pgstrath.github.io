@@ -1,5 +1,7 @@
 ---
 layout: page
+redirect_to:
+  - https://pgstrath.wordpress.com/
 title: About PGS
 navtitle: About PGS
 tags: [about, PGS, postgrads, PGR, PhD]

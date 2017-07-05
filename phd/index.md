@@ -1,5 +1,7 @@
 ---
 layout: page
+redirect_to:
+  - https://pgstrath.wordpress.com/
 title: PhDs at Strathclyde
 navtitle: PhDs
 tags: [about, PGRS, postgrads, PGR, PhD]
